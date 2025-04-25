@@ -1,4 +1,5 @@
-# How to Upgrade a Data Disk using a Snapshot
+# How to Upgrade a Data Disk using a Snapshot 
+( Premium V2 -> Ultra Disk )
 
 ## Step 1: Access Disk Settings
 
